@@ -6,6 +6,7 @@ public class Main {
 		MySubClass obj = new MySubClass();
 		obj.display();
 		obj.display2();
+		
 
 	}
 
