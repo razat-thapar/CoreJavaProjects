@@ -1,0 +1,9 @@
+Fixed Parameters : 
+No of tasks = 10 
+Maximum no of threads = 4 i.e no of cores in CPU. 
+
+#Runtimes : 
+
+MainUsingFixedSizeThreadPool : 6072 ms 
+MainUsingCacheThreadPool : 2099 ms
+MainUsingSingleThreadExecutor : 20095 ms
